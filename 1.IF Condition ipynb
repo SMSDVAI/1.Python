@@ -1,0 +1,98 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "cc39bc50-d8ee-4b31-ab59-8d3c04723193",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Valid number\n"
+     ]
+    }
+   ],
+   "source": [
+    "#IF Condition\n",
+    "num=10\n",
+    "if(num<15):\n",
+    "    print(\"Valid number\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "f2ac440b-c685-40f2-aeec-b14d3894da0d",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "VINOTH\n"
+     ]
+    }
+   ],
+   "source": [
+    "# If Conditon to check name\n",
+    "name='VINOTH'\n",
+    "if(name=='VINOTH'):\n",
+    "    print(name)\n",
+    "\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "1edb9ac4-70d8-4b63-bcfc-1b4a6d82d142",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Senior Citizen\n"
+     ]
+    }
+   ],
+   "source": [
+    "# If Conditon to check number\n",
+    "age = 80\n",
+    "if(age==80):\n",
+    "    print(\"Senior Citizen\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "89b95c21-cb72-47de-8d03-56eabca7aa8d",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.14.6"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
